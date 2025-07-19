@@ -273,7 +273,7 @@ Premendo il **pulsante di reset** (**GPIO16**) per più di 3 secondi:
 
 ## Licenza.
 
-Questo progetto è rilasciato sotto licenza open source. Puoi usarlo, modificarlo e condividerlo liberamente.
+Questo progetto è rilasciato sotto licenza open source [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html). Puoi usarlo, modificarlo e condividerlo liberamente.
 
 ---
 
