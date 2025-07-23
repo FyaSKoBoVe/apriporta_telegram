@@ -263,10 +263,14 @@ Puoi personalizzare:
 ## Reset/Recovery.
 ⚙️
 
-Premendo il **pulsante di reset** (**GPIO16**) per più di 3 secondi:
+Premendo il **pulsante di reset** (**GPIO16**) per più di 5 secondi:
 
 - Il sistema entra nuovamente in modalità configurazione (AP).
-- È possibile reimpostare SSID, token o lista utenti direttamente dal browser.- Dalla web page è possibile **resettare la EEPROM** a stato di fabbrica (“Reset EEPROM”).
+- Si apre la richiesta "Password"
+- Nella stessa pagina è possibile **resettare la EEPROM** a stato di fabbrica (“Reset EEPROM”).
+- Una volta inserita la password e premuto "Accedi"
+- È possibile reimpostare SSID, token o lista utenti direttamente dal browser.
+- Da qui è possibile accedere anche al cambio Password. 
 
 ---
 
