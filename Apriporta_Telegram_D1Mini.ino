@@ -61,7 +61,9 @@
  * - GND     -> GND comune/GND OLED Display
  *
  * per una descrizione più dettagliata:
- * https://github.com/massimocorti/Apriporta_Telegram_D1Mini
+ * https://github.com/FyaSKoBoVe/apriporta_telegram.git
+ *
+ * Creato Da: FyaSKoBoVe
  */
  
 
