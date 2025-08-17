@@ -152,6 +152,9 @@ Le accensioni successive:
   - `/log` – Mostra le ultime operazioni registrate
   - `/help` – Guida completa ai comandi
   - `/menu` – Menu interattivo con pulsanti inline
+- Menù a Pulsanti su Telegram
+
+
 
 - **Sicurezza**
   - Solo gli utenti autorizzati possono eseguire comandi
@@ -188,7 +191,9 @@ Il menu interattivo permette di controllare il sistema con pochi tap:
 - **ℹ️ Stato Sistema**
 - **📋 Mostra Log**
 - **❓ Aiuto**
-
+<br>
+<img src="https://github.com/FyaSKoBoVe/apriporta/blob/main/img/imm_telegram.jpeg" width="25%" height="auto"/>
+<br>
 ---
 
 ## Sicurezza
