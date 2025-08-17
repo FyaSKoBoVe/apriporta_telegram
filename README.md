@@ -281,7 +281,7 @@ Puoi personalizzare:
 - Dimensione e posizione del testo sul display
 - Interfaccia web (HTML/CSS)
 
-`SOLAMENTE MODIFICANDO IL PROGRAMMA`
+**>>> SOLAMENTE MODIFICANDO IL PROGRAMMA <<<**
 
 ---
 
