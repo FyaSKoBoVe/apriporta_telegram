@@ -291,6 +291,6 @@ Realizzato per ESP8266 D1 mini – progetto Apriporta [ver. 01].
 
 ### Wiki
 
-per lo schema elettrico e ulteriori approfondimenti collegati al Wiki.
+per lo schema elettrico e ulteriori approfondimenti collegati al [Wiki](https://github.com/FyaSKoBoVe/apriporta_telegram/wiki).
 
 
