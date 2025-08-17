@@ -243,6 +243,11 @@ UtenteX Luce 1h
 UtenteY Porta 5h
 WiFi:OK TG:OK
 ```
+<br>
+<img src="https://github.com/FyaSKoBoVe/apriporta/blob/main/img/display_i2c.jpeg" width="25%" height="auto"/>
+<br>
+
+
 
 ### Log su Telegram.
 
@@ -255,6 +260,15 @@ WiFi:OK TG:OK
   👤 UtenteY
   ⏰ 1 ora fa
 ```
+<br>
+<img src="https://github.com/FyaSKoBoVe/apriporta/blob/main/img/registro_operazioni.jpeg" width="25%" height="auto"/>
+<br>
+
+### Stato di Sistema
+
+<br>
+<img src="https://github.com/FyaSKoBoVe/apriporta/blob/main/img/stato_sistema.jpeg" width="25%" height="auto"/>
+<br>
 
 ---
 
