@@ -20,7 +20,7 @@
 - [Reset/Recovery](#resetrecovery)
 - [Licenza](#licenza)
 - [Credits](#credits)
-
+- [Wiki](#wiki)
 ---
 
 ## Descrizione
