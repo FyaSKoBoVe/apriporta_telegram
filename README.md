@@ -9,6 +9,7 @@
 - [Schema collegamenti (per D1 mini)](#schema-collegamenti-per-d1-mini)
 - [Installazione Librerie Necessarie (via Library Manager)](#installazione-librerie-necessarie-via-library-manager)
 - [Configurazione iniziale di Telegram](#configurazione-iniziale-di-telegram)
+- [Assemblaggio Circuito](#assemblaggio-circuito)
 - [Configurazione al primo avvio](#configurazione-al-primo-avvio)
 - [Funzionalità principali - Dettaglio](#funzionalità-principali---dettaglio)
 - [Comandi Disponibili](#comandi-disponibili)
@@ -110,6 +111,8 @@ Assicurati di installare queste librerie prima di caricare il codice:
 ---
 
 ## Assemblaggio Circuito
+
+⚙️
 
 Il circuito si può assemblare su una breadboard seguendo lo schema elettronico qui sotto. In questo modo, prima di fare il circuito stampato, si ha la possibilità di testarlo.
 
