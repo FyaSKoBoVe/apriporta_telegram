@@ -104,17 +104,20 @@ Assicurati di installare queste librerie prima di caricare il codice:
 2. **Trova chat ID**
     - Invia il Bot a chi lo potrà utilizzare
     - Ogni utilizzatore dovrà mandarti il suo ID
-      - Vai su `https://api.telegram.org/bot<TUO_TOKEN>/getUpdates`
-      - Cerca `"chat":{"id":NUMERO}` e annota il numero
-      - In alternativa, usa [@MyIDBot](https://telegram.me/myidbot) e invia `/getid` (consigliato)
-      - Copia tutti gli ID
-3. **Imposta credenziali WiFi e Telegram nel codice**
-    - Modifica le variabili `ssid`, `password`, e `BOT_TOKEN`
-    - Inserisci i chat ID autorizzati nell’array `authorizedUsers`
-4. **Collega l’hardware** come da schema sopra
-
+       1. per trovarlo devono andare su  [@MyIDBot](https://telegram.me/myidbot) e nella chat mandare `/getid` per ottenere il proprio ID.
+       2. Copia tutti gli ID
+      
 ---
 
+## Assemblaggio Circuito
+
+Il circuito si può assemblare su una breadboard seguendo lo schema elettronico qui sotto. In questo modo, prima di fare il circuito stampato, si ha la possibilità di testarlo.
+
+<img src="https://github.com/FyaSKoBoVe/apriporta/blob/main/img/schema01_1.png" width="1005" height="auto"/>
+
+<br>
+
+---
 ## Configurazione al primo avvio
 ⚙️
 
@@ -128,7 +131,7 @@ Assicurati di installare queste librerie prima di caricare il codice:
       - Chat ID degli utenti autorizzati (separati da virgole, esempio: `12345678,87654321`)
       - Cambio password per accedere alla configurazione
     - Possibilità di **resettare il dispositivo**
-4. Salva e riavvia (automaticamente).
+4. Salva e riavvia .
 
 Le accensioni successive:
 
