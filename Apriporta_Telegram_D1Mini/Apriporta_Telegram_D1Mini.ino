@@ -60,7 +60,7 @@
  * - 3.3V Vcc OLED Display
  * - GND     -> GND comune/GND OLED Display
  *
- * per una descrizione più dettagliata:
+ * Per una descrizione più dettagliata:
  * https://github.com/FyaSKoBoVe/apriporta_telegram.git
  *
  * Autore: FyaSKoBoVe
@@ -69,8 +69,6 @@
  *
  */
  
-
-
 // ====== INCLUDE E DEFINIZIONI ======
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
